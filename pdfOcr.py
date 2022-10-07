@@ -3,7 +3,6 @@ from PIL import Image
 import pytesseract
 import numpy as np
 import cv2
-import matplotlib.pyplot as plt
 import tempfile
 import cv2
 import numpy as np

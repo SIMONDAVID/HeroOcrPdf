@@ -1,2 +1,5 @@
 tesseract-ocr
 tesseract-ocr-eng
+ffmpeg
+libsm6
+libxext6 
